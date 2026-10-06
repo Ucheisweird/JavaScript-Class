@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0001",
+        "firstname": "John",
+        "age": "23",
+        "salary": 3456.78,
+        "gender": "Male"
+    },
+    {
+        "id": "0002",
+        "firstname": "James",
+        "age": "25",
+        "salary": 56456.78,
+        "gender": "Male"
+    },
+    {
+        "id": "0003",
+        "firstname": "Mary",
+        "age": "21",
+        "salary": 11456.78,
+        "gender": "Female"
+    }
+]
